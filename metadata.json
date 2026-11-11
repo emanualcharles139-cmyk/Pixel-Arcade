@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Arcade",
+  "description": "Play 8 fully playable browser games: Stack Ball, 8 Ball Pool, Carrom, Gun Sprint, Ludo, Snakes & Ladders, Tic Tac Toe, and Car Racing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
